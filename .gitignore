@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# lrge data files
+trained/
+
 # Distribution / packaging
 .Python
 build/
