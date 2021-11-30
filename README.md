@@ -97,8 +97,8 @@ Explanation of files found in the main branch of the repository
 
 ## Slides
 
-Here is the link to the Google Slides file: 
-[paste the URL here]
+Here is the link to the Google Slides file: <br>
+https://docs.google.com/presentation/d/1SRcKVUIdXvpDC_4WXyV4G9KMiAWpHkYITMG1a9nhBd4/edit?usp=sharing
 
 ### FOR THE GRADER
 - At your suggestion I took a closer look at the detailed rubric for segment 3. 
