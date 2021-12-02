@@ -95,9 +95,15 @@ Explanation of files found in the main branch of the repository
 - the <b>output folder</b> contains the vector files created by training model #1
 - large pre-trained data files in GloVe and word2vec format using a 100 dimension matric were too big to upload to gitHub so I added the name of the folder where they are located to the .gitignore file in the main repo. 
 
+## Slides
+
+Here is the link to the Google Slides file: <br>
+https://docs.google.com/presentation/d/1SRcKVUIdXvpDC_4WXyV4G9KMiAWpHkYITMG1a9nhBd4/edit?usp=sharing
+
 ### FOR THE GRADER
-- This is a resubmit of Segment Two which includes a more robust README and more files in the main branch of the repository
-- Two Machine Learning Models are already trained and working- will continue to refine them and clean them up for submission for the Third Segment Deliverable
-- I have created a Google Slides file and I am creating graphics that correspond to some of the information above as well as new information and visualizations
-- Still thinking about which visualizations to include in the dashboard and the best way to get them there
-- I might be ahead of schedule on the machine learning models (closer to Segment 3 requirements) while still behind on the slides and visualizations but I figued nothing else would matter unless I got at least one of the machine learning models working
+- At your suggestion I took a closer look at the detailed rubric for segment 3. 
+- Two Machine Learning Models are already trained and working.
+- Google slides are linked above.
+- Regarding the machine learning segment of the rubric - the slides I created answer four(4) of the six questions which should qualify as "emerging." 
+- The reason I can't answer the other two questions is because the choice of the model (deep learning neural network) does not fit with the train-test split format, which makes it impossible to compute an accuracy score.  Perhaps this is one of the limitations of the model choice
+- Still thinking about which visualizations to include in the dashboard and the best way to get them there. I might not have time to get the dashboard working.
